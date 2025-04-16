@@ -1,31 +1,12 @@
-# 👋 Olá! Eu sou Danilu
+# React + Vite
 
-Sou uma pessoa apaixonada por tecnologia, desenvolvimento de software e por aprender coisas novas todos os dias. Aqui no meu GitHub você vai encontrar projetos que refletem minha jornada, meus estudos e o que gosto de construir no tempo livre.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
----
+Currently, two official plugins are available:
 
-## 🚀 Tecnologias e Ferramentas
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-- 💻 **Principais:** `JavaScript`, `Git e GitHub`, `Python`, `Node.js`
-- 🌐 **Web:** `React`, `Next.js`, `HTML`, `CSS`
+## Expanding the ESLint configuration
 
-
----
-
-## 📈 Atualmente estou:
-
-- Estudando desenvolvimento full stack
-- Aprofundando meus conhecimentos em boas práticas, testes e arquitetura de software
-- Contribuindo com projetos open source
-- Explorando o universo da computação em nuvem
-
----
-
-## 💬 Vamos conversar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/danilu-silva-a416142b0/)
-- 📧 silvadanilu06@gmail.com
-
----
-
-⭐ Obrigado por visitar meu perfil!
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
